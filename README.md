@@ -1,2 +1,1 @@
-# traffic-routes-optimizer
-A Python-based Traffic Route Optimization system using Dijkstra’s Algorithm with graph visualization.
+This project is a Python-based mini project that finds the shortest path between locations using Dijkstra’s Algorithm and visualizes the route using graphs.
